@@ -1,6 +1,10 @@
+.top-items {
+    display: flex;
+    align-items: center;
+}
+
 h1 {
     font-size: 30px;
-    margin: 20px;
 }
 
 #header-img {
